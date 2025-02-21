@@ -1,0 +1,26 @@
+table, tr, th, td{
+    border: 1pt solid black;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+body{
+    background-color: darkgray;
+}
+
+
+#tablazat{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#container{
+    background-color: wheat;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
